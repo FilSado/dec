@@ -1,0 +1,1 @@
+date:2024-02-28 08:36:12.343618; name:fg; args:([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs:{}; result:('a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None)
